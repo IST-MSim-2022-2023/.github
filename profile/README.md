@@ -1,18 +1,4 @@
-## :3 😎
-```plaintext
-Gnoj je zlato
-in zlato je gnoj.
+# [KONS-5](https://literaven.com/2021/03/16/kons-5-esp-eng-slo/)
+:sunny: Hello from KONS-5 
 
-Oboje = 0
-0 = ∞
-∞ = 0
-A B <
-1, 2, 3.
-
-Kdor nima duše,
-ne potrebuje zlata,
-kdor ima dušo,
-ne potrebuje gnoja.
-
-I, A.
-```
+We strive to simplify studying and foster knowledge sharing. Our repository features essential notes, archived labs/projects, and diverse personal projects in Electrical & Computer Engineering at Instituto Superior Técnico.
