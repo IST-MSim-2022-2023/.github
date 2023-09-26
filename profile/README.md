@@ -22,15 +22,11 @@ We strive to simplify studying and foster knowledge sharing. Our repository feat
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=latex" height="50" alt="latex logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="50" alt="markdown logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=astro" height="50" alt="astro logo"  />
   <img width="12" />
